@@ -2,7 +2,6 @@
  - **telegram**:  [@shulhan](http:/t.me/shulhan)
  - **mail**: shulhan.andrei@gmail.com
 ## Skills 
----
 - HTML
 - CSS, SASS
 - БЭМ
@@ -11,7 +10,6 @@
 - GIT
 
 ## Code examples
----
 ```sh
 export default (str) => {
   let acc = 0;
