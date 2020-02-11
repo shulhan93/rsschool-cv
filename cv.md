@@ -1,6 +1,10 @@
 # Shulhan Andrei
  - **telegram**:  [@shulhan](http:/t.me/shulhan)
  - **mail**: shulhan.andrei@gmail.com
+
+ ## Summary
+Hi, my name is Andrey Shulgan and I am a beginner front-end developer. I want, with the help of your course, to structure the training and, after my passion, to translate into a full-fledged work.
+
 ## Skills 
 - HTML
 - CSS, SASS
@@ -24,6 +28,12 @@ export default (str) => {
 };
 ```
 
+## Experience 
+All my experience is in home practice.
+Work examples:
+ - [site advogrand](https://advocat.shulhan.ru/) 
+ - [site degree](https://flat.shulhan.ru/) 
+
 ## Education
 - Sukhoi State Technical University of Gomel
 - Courses:
@@ -31,3 +41,11 @@ export default (str) => {
     - [htmlacademy.ru](https://htmlacademy.ru/) 
     - [udemy.com](https://www.udemy.com/course/webdeveloper/) (web developer)
     - [glo-academy.ru](https://glo-academy.ru/web-start/) 
+
+## English 
+**My English level**: Elementary
+Courses:
+- [duolingo](https://ru.duolingo.com/) 
+- [lingualeo](https://lingualeo.com/) 
+- [Playlist English](https://www.youtube.com/channel/UC_3oKG5Szq-m6Xz-MjRZgpw) 
+
