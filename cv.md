@@ -2,7 +2,8 @@
  - **telegram**:  [@shulhan](http:/t.me/shulhan)
  - **mail**: shulhan.andrei@gmail.com
 
- ## Summary
+## Summary
+
 Hi, my name is Andrey Shulgan and I am a beginner front-end developer. I want, with the help of your course, to structure the training and, after my passion, to translate into a full-fledged work.
 
 ## Skills 
@@ -44,6 +45,7 @@ Work examples:
 
 ## English 
 **My English level**: Elementary
+
 Courses:
 - [duolingo](https://ru.duolingo.com/) 
 - [lingualeo](https://lingualeo.com/) 
