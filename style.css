@@ -10,11 +10,18 @@ h2 {
 
 a {
     text-decoration: none;
+    transition: opacity 0.4s;
+}
+
+a:hover {
+    opacity: 0.4;
 }
 
 body {
+    position: relative;
     margin: 0;
     padding: 0;
+    height: 100vh;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     color: #D6D6D6;
@@ -35,13 +42,17 @@ body {
     position: absolute;
     left: 0;
     bottom: -5px;
-    width: 60%;
-    height: 3px;
+    width: 70%;
+    height: 4px;
     border-radius: 30px;
     background-color: #CA3E47;
 }
 
 .main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     width: 1024px;
     height: 650px;
     margin: 0 auto;
@@ -121,7 +132,6 @@ body {
 }
 
 /* ===== section skills ===== */
-
 .skills__wrapper {
     margin-top: 20px;
 }
@@ -141,7 +151,7 @@ body {
 .skill__name {
     margin: 0;
     margin-bottom: 5px;
-    font-size: 15px;    
+    font-size: 15px;
     font-weight: 700;
 }
 
@@ -170,7 +180,6 @@ body {
 }
 
 /* ===== section code ===== */
-
 .code__example {
     display: block;
     padding-left: 10px;
@@ -183,19 +192,40 @@ body {
 }
 
 /* ===== section experience  ===== */
-
-.list-works {
-
-}
-
 .list-works a {
     color: #D6D6D6;
     font-weight: 600;
 }
 
+/* ===== section education  ===== */
+.education-list__courses a {
+    color: #D6D6D6;
+    font-weight: 400;
+}
 
+.education-list li {
+    font-weight: 600;
+}
 
+/* ===== section english  ===== */
+.english__text {
+    font-weight: 600;
+}
 
+.english__text span {
+    font-weight: 400;
+    color: #fff;
+}
+
+.english__courses a {
+    color: #D6D6D6;
+}
+
+.english__courses span {
+    font-weight: 600;
+}
+
+/* ===== scroll  ===== */
 ::-webkit-scrollbar-button {
     width: 5px;
     height: 5px
